@@ -6,7 +6,7 @@ And I can build a team of freelancers.
 * https://commew.net/
 
 
-Feel free to contact me.
+Please feel free to contact me.
 * https://twitter.com/muchoco_dev
 
 #### My Blog
