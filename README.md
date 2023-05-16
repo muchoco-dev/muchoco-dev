@@ -16,3 +16,8 @@ PHP
 
 Other
 * https://zenn.dev/muchoco
+
+#### Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchoco-dev
+)](https://github.com/anuraghazra/github-readme-stats)
