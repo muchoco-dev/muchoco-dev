@@ -9,7 +9,7 @@ And I can build a team of freelancers.
 Please feel free to contact me.
 * https://twitter.com/muchoco_dev
 
-#### My Blog
+#### My Tech Blog
 
 PHP
 * https://php-junkie.net/
