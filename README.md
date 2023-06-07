@@ -9,6 +9,12 @@ And I can build a team of freelancers.
 Please feel free to contact me.
 * https://twitter.com/muchoco_dev
 
+#### Love
+
+* Personal development
+* Database design
+* Code reading of programs developed by others
+
 #### My Tech Blog
 
 PHP
